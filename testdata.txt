@@ -1,0 +1,6 @@
+huzaifa,cancer,positive
+asahhad,cbc,positive
+asd,sf,positive
+asd,fdg,positive
+asd,sd,positive
+ali,asd,positive
